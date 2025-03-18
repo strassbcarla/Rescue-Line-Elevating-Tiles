@@ -1,6 +1,6 @@
 
 ![RescueRampeErhöhung](https://github.com/user-attachments/assets/336006c6-dde9-4e50-ba35-36f9e328dbb4)
-*1 Ebene/1 Level*
+*1 Ebene/ first level*
 
 ![TestEbene2](https://github.com/user-attachments/assets/e5f70391-523b-4127-9bba-2c366eef609c)
 *Mittelstück zur Erweiterung/ add-on piece*
