@@ -1,8 +1,15 @@
 
 ![RescueRampeErhöhung](https://github.com/user-attachments/assets/336006c6-dde9-4e50-ba35-36f9e328dbb4)
+*1 Ebene/1 Level*
+
 ![RescueRampeErhöhung260mm](https://github.com/user-attachments/assets/443211ad-4215-461b-a4f6-6f6720b7a85a)
+*2 Ebenen/2 Level*
+
 ![RescueRampeKlotz](https://github.com/user-attachments/assets/28ad0001-1502-4530-a8b3-c9e81fc6f19f)
+*Klotz zur Befestigung der Platten/ attachment brick*
+
 ![Verbindungsstück_RescueErhöhungen](https://github.com/user-attachments/assets/d3a8431c-9542-4dbf-851e-454ec62a617c)
+*Verbindungsstück für zwei Stützen nebeneinander/ connectionpiece*
 
 # Rescue-Line-Stützen Beschreibung D
 Dieses Repository enthält die Stützen für die 1./2./n-te... Ebene vom RoboCup Junior Qualifikationsturnier in Vöhringen. Als Organisatoren der Rescue Line Liga haben wir beschlossen, die alten, hölzernen Erhöhungen durch neue, 3D-gedruckte, modulare Stützen zu ersetzen.
